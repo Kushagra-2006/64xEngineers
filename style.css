@@ -156,4 +156,7 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+  .large-heading{
+    font-size: 70px;
+  }
 }
